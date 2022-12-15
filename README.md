@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ```
 `xml-python==0.4.3` is needed only for the preprocess of the raw DART data. You can always use the preprocessed data for the convinience.  
 
-## Finetuning
+## Training
 
 Train with different models:
  execute:
